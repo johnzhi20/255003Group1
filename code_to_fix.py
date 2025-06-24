@@ -3,3 +3,5 @@ def abs_value(x):
         return -x
     else:
         return x
+
+print abs_value(-40)
