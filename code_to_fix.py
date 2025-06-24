@@ -1,5 +1,5 @@
-def abs_value(xyz):
-    if xyz < 0:
-        return xyz
+def abs_value(x):
+    if x < 0:
+        return -x
     else:
-        return -1*xyz
+        return x
