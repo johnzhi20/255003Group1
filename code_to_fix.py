@@ -4,4 +4,4 @@ def abs_value(x):
     else:
         return x
 
-print abs_value(-40)
+print (abs_value(-40))
